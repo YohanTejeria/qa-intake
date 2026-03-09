@@ -20,7 +20,7 @@ export default {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
-              "x-intake-secret": "CHANGE_THIS_SECRET"
+              "x-intake-secret": "a9K3mP8xQ2vT7nL4sW1zR6"
             },
             body
           }
